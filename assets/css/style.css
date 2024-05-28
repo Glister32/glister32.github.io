@@ -555,6 +555,11 @@ h6 {
 	width: 6.25em;
   border-radius: 100%;
 }
+
+#img_logo_skill{
+	width: 3.5em;
+  margin-left: 22px;
+}
 section {
   padding: 60px 0;
 }
